@@ -1,2 +1,1 @@
-file hosts 
-file nmc
+測試目錄
